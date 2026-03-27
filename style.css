@@ -152,6 +152,11 @@ section h2 {
     margin-top: 12px;
 }
 
+.destaque {
+    border: 2px solid #38bdf8;
+    background-color: #0f172a;
+}
+
 footer {
     text-align: center;
     padding: 20px;
